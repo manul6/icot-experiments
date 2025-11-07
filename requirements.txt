@@ -1,0 +1,19 @@
+# Core dependencies
+torch
+numpy
+pandas
+
+# Transformers and NLP
+transformers
+
+# Math and scientific computing
+einops
+fancy-einsum
+scikit-learn
+
+# Visualization
+matplotlib
+plotly
+
+# Progress bars
+tqdm
