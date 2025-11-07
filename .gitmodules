@@ -1,0 +1,3 @@
+[submodule "submodules/icot"]
+	path = submodules/icot
+	url = https://github.com/ajyl/icot.git
